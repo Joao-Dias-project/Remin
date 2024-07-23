@@ -1,0 +1,12 @@
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\bin\Debug\net8.0\Remin.Application.Services.deps.json
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\bin\Debug\net8.0\Remin.Application.Services.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\bin\Debug\net8.0\Remin.Application.Services.pdb
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.AssemblyInfoInputs.cache
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.AssemblyInfo.cs
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.sourcelink.json
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\refint\Remin.Application.Services.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\Remin.Application.Services.pdb
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Application.Services\obj\Debug\net8.0\ref\Remin.Application.Services.dll
