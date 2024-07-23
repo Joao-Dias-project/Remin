@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\migrations\\20240723173328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\migrations\\20240723173328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\remin.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\remin.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|solutionrelative:remin.domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.domain\\realtyasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|solutionrelative:remin.domain\\realtyasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.domain\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|solutionrelative:remin.domain\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.domain\\medialine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}|Remin.Domain\\Remin.Domain.csproj|solutionrelative:remin.domain\\medialine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF576A14-6706-469D-BA93-676CC2DC4F21}|Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data.ioc\\dependecycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF576A14-6706-469D-BA93-676CC2DC4F21}|Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj|solutionrelative:remin.infra.data.ioc\\dependecycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.infra.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7466-030F-4722-A40D-DB74349CF1C6}|Remin.Infra.Data\\Remin.Infra.Data.csproj|solutionrelative:remin.infra.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}|Remin.Application.Services\\Remin.Application.Services.csproj|c:\\users\\estemob\\documents\\repos\\remin\\remin\\remin.application.services\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}|Remin.Application.Services\\Remin.Application.Services.csproj|solutionrelative:remin.application.services\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240723173328_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Migrations\\20240723173328_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\Migrations\\20240723173328_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Migrations\\20240723173328_InitialCreate.cs",
+              "RelativeToolTip": "Remin.Infra.Data\\Migrations\\20240723173328_InitialCreate.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwDsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:36:16.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Remin.Infra.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwIQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:34:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Remin.Infra.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\Remin.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj",
+              "RelativeToolTip": "Remin.Infra.Data\\Remin.Infra.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T16:50:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\appsettings.Development.json",
+              "RelativeToolTip": "Remin.Infra.Data\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T16:47:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Remin.Infra.Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:33:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Remin.Infra.Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:31:46.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Remin.Infra.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:25:23.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MediaLine.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\MediaLine.cs",
+              "RelativeDocumentMoniker": "Remin.Domain\\MediaLine.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\MediaLine.cs",
+              "RelativeToolTip": "Remin.Domain\\MediaLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:20:24.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RealtyAsset.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\RealtyAsset.cs",
+              "RelativeDocumentMoniker": "Remin.Domain\\RealtyAsset.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\RealtyAsset.cs",
+              "RelativeToolTip": "Remin.Domain\\RealtyAsset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:11:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Photo.cs",
+              "RelativeDocumentMoniker": "Remin.Domain\\Photo.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Photo.cs",
+              "RelativeToolTip": "Remin.Domain\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:44:58.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Region.cs",
+              "RelativeDocumentMoniker": "Remin.Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Region.cs",
+              "RelativeToolTip": "Remin.Domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:46:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependecyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\DependecyContainer.cs",
+              "RelativeDocumentMoniker": "Remin.Infra.Data.IoC\\DependecyContainer.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\DependecyContainer.cs",
+              "RelativeToolTip": "Remin.Infra.Data.IoC\\DependecyContainer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:35:16.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Remin.Application.Services\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Remin.Application.Services\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:42:03.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

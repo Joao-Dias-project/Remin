@@ -1,0 +1,12 @@
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\bin\Debug\net8.0\Remin.Domain.deps.json
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\bin\Debug\net8.0\Remin.Domain.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\bin\Debug\net8.0\Remin.Domain.pdb
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.AssemblyInfoInputs.cache
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.AssemblyInfo.cs
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.sourcelink.json
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\refint\Remin.Domain.dll
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\Remin.Domain.pdb
+C:\Users\EsteMOB\Documents\repos\Remin\Remin\Remin.Domain\obj\Debug\net8.0\ref\Remin.Domain.dll
