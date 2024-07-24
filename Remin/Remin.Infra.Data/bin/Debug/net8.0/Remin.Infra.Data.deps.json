@@ -1019,6 +1019,9 @@
         }
       },
       "Remin.Application.Services/1.0.0": {
+        "dependencies": {
+          "Remin.Domain": "1.0.0"
+        },
         "runtime": {
           "Remin.Application.Services.dll": {}
         }

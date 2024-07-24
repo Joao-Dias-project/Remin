@@ -1,0 +1,6 @@
+@Remin.WebApi_HostAddress = http://localhost:5266
+
+GET {{Remin.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

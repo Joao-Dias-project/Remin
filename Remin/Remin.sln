@@ -11,16 +11,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{237E9D42
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{B6BE2E3B-F95C-4707-81B1-E4C879F4B470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remin.Domain", "Remin.Domain\Remin.Domain.csproj", "{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remin.Domain", "Remin.Domain\Remin.Domain.csproj", "{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remin.Infra.Data", "Remin.Infra.Data\Remin.Infra.Data.csproj", "{A11A7466-030F-4722-A40D-DB74349CF1C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remin.Infra.Data", "Remin.Infra.Data\Remin.Infra.Data.csproj", "{A11A7466-030F-4722-A40D-DB74349CF1C6}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E} = {F4BA7DB0-3D24-4795-8BBB-3D34E0CBE83E}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remin.Infra.Data.IoC", "Remin.Infra.Data.IoC\Remin.Infra.Data.IoC.csproj", "{FF576A14-6706-469D-BA93-676CC2DC4F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remin.Infra.Data.IoC", "Remin.Infra.Data.IoC\Remin.Infra.Data.IoC.csproj", "{FF576A14-6706-469D-BA93-676CC2DC4F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remin.Application.Services", "Remin.Application.Services\Remin.Application.Services.csproj", "{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remin.Application.Services", "Remin.Application.Services\Remin.Application.Services.csproj", "{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remin.WebApi", "Remin.WebApi\Remin.WebApi.csproj", "{05836B30-FD6C-4A5B-A225-9302A1633AF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05836B30-FD6C-4A5B-A225-9302A1633AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05836B30-FD6C-4A5B-A225-9302A1633AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05836B30-FD6C-4A5B-A225-9302A1633AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05836B30-FD6C-4A5B-A225-9302A1633AF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{A11A7466-030F-4722-A40D-DB74349CF1C6} = {237E9D42-C773-4098-92B2-1BB77F46EE79}
 		{FF576A14-6706-469D-BA93-676CC2DC4F21} = {237E9D42-C773-4098-92B2-1BB77F46EE79}
 		{5D1ECE10-5D35-4DD3-9234-F2D143FA6F07} = {78021BC9-CB6B-4C00-BDC0-44121659A493}
+		{05836B30-FD6C-4A5B-A225-9302A1633AF2} = {B6BE2E3B-F95C-4707-81B1-E4C879F4B470}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEC84392-CCC6-4D4B-804B-45551DAF1863}

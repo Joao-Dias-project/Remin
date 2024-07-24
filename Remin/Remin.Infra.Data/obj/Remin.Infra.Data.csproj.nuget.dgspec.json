@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
