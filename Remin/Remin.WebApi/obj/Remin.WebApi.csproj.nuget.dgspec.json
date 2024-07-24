@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.WebApi\\Remin.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj",
+        "projectName": "Remin.Application.Services",
+        "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj",
+        "packagesPath": "C:\\Users\\EsteMOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EsteMOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj",
+        "projectName": "Remin.Domain",
+        "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj",
+        "packagesPath": "C:\\Users\\EsteMOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EsteMOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj",
+        "projectName": "Remin.Infra.Data.IoC",
+        "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj",
+        "packagesPath": "C:\\Users\\EsteMOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EsteMOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj"
+              },
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj",
+        "projectName": "Remin.Infra.Data",
+        "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\Remin.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\EsteMOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EsteMOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Application.Services\\Remin.Application.Services.csproj"
+              },
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.WebApi\\Remin.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.WebApi\\Remin.WebApi.csproj",
+        "projectName": "Remin.WebApi",
+        "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.WebApi\\Remin.WebApi.csproj",
+        "packagesPath": "C:\\Users\\EsteMOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EsteMOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Domain\\Remin.Domain.csproj"
+              },
+              "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj": {
+                "projectPath": "C:\\Users\\EsteMOB\\Documents\\repos\\Remin\\Remin\\Remin.Infra.Data.IoC\\Remin.Infra.Data.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

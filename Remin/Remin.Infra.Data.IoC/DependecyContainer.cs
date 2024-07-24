@@ -2,6 +2,10 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Remin.Application.Services.Contracts;
+using Remin.Application.Services.Contracts.RepositoryContracts;
+using Remin.Application.Services.Contracts.ServiceContracts;
+using Remin.Application.Services.Services;
+using Remin.Infra.Data.Repositories;
 
 namespace Remin.Infra.Data.IoC
 {
@@ -11,14 +15,14 @@ namespace Remin.Infra.Data.IoC
 
         {
             // Services
-            //services.AddScoped<IWorkOrderService, WorkOrderService>();
-            //services.AddScoped<IMotorcycleService, MotorcycleService>();
-            //services.AddScoped<IClientService, ClientService>();
+            services.AddScoped<IRegionService, RegionService>();
+            services.AddScoped<IPhotoService, PhotoService>();
+            services.AddScoped<IRealtyAssetService, RealtyAssetService>();
 
             // Repos
-            //services.AddScoped<IWorkOrderRepository, WorkOrderRepository>();
-            //services.AddScoped<IMotorcycleRepository, MotorcycleRepository>();
-            //services.AddScoped<IClientRepository, ClientRepository>();
+            services.AddScoped<IRegionRepository, RegionRepository>();
+            services.AddScoped<IPhotoRepository, PhotoRepository>();
+            services.AddScoped<IRealtyAssetRepository, RealtyAssetRepository>();
             services.AddScoped<DbContext, ApplicationDbContext>();
 
             // Database Config
@@ -30,8 +34,8 @@ namespace Remin.Infra.Data.IoC
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddDbContext<ApplicationDbContext>(options =>
             {
-                var connectionString = config.GetConnectionString("PoweredByXixoCS");
-                options.UseSqlServer(connectionString, x => x.MigrationsAssembly("PoweredByXixo.Services.WebApi").MigrationsHistoryTable("__EFMigrationsHistory_Data"));
+                var connectionString = config.GetConnectionString("ReminCS");
+                options.UseSqlServer(connectionString, x => x.MigrationsAssembly("Remin.Services.WebApi").MigrationsHistoryTable("__EFMigrationsHistory_Data"));
             });
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 

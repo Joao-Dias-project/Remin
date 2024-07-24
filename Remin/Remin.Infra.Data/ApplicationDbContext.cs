@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Remin.Domain;
+using System.Reflection.Metadata;
 
 namespace Remin.Infra.Data
 {
@@ -8,12 +9,15 @@ namespace Remin.Infra.Data
         public DbSet<Region> Regions { get; set; }
         public DbSet<Photo> Photos { get; set; }
         public DbSet<RealtyAsset> RealtyAssets { get; set; }
-        public DbSet<MediaLine> MediaLines { get; set; }
         public ApplicationDbContext(DbContextOptions options) : base(options) { }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<MediaLine>().HasNoKey();
+            modelBuilder.Entity<RealtyAsset>()
+                .HasMany(ra => ra.Photos)
+                .WithOne()
+                .HasForeignKey(p => p.RealtyAssetId)
+                .IsRequired();
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
         }
